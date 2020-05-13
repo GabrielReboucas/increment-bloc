@@ -1,4 +1,5 @@
 # increment_bloc
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Application of example increment counter bloc in flutter
+>>>>>>> ef1ba931bc3c0afab94efcdc9d7e4277ad588e89
